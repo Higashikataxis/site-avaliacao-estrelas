@@ -1,0 +1,10 @@
+{
+  "description": "Enables users to submit star-based ratings with a visually appealing design inspired by a specified style and color scheme for effective feedback.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
